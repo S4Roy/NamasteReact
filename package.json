@@ -1,0 +1,22 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S4Roy/NamasteReact.git"
+  },
+  "author": "Subhankar Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S4Roy/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/S4Roy/NamasteReact#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
